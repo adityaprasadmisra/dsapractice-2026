@@ -23,3 +23,6 @@ int main()
     cout<<minAllOneMultiple(n)<<endl;
     return 0;
 }
+
+// this is a brute force approach of the question which is on leetcode , but this solution will certainly wont work because of the range of stoi. Just for intution i am putting this here.
+//-----Thank you------
